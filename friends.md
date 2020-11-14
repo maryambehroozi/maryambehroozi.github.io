@@ -9,6 +9,7 @@ comments: true
 ---
 
 ### f.r.i.e.n.d.s
+/assets/images/photo_2020-11-14_23-28-32.jpg
 * هدیه
 * مبینا
 * نازنین
