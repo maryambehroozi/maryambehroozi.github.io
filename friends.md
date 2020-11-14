@@ -3,15 +3,17 @@ layout: single
 author_profile: true
 permalink: /friends/
 title: My friends around the world
-tags: [friends]
+tags: [best friends]
 modified: 4-10-2019
 comments: true
 ---
 
-### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
-
+### f.r.i.e.n.d.s
+* هدیه
+* مبینا
+* نازنین
+* مهلا
+* مهدیه
+* فاطمه
 
 
