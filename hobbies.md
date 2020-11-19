@@ -8,7 +8,12 @@ modified: 9-14-2019
 comments: false
 ---
 
+* reading books specially those that make me wanna cry!
+* watching movies actually Im big fan of Marvel films
+* go out with my friends and visit new cafes
+* trying new exiting things like scaperoom :)
 
-* [BJJ](http://www.bjjheros.com/)
+
+ 
 
 
