@@ -9,12 +9,16 @@ comments: true
 ---
 
 ### f.r.i.e.n.d.s
-/assets/images/photo_2020-11-14_23-28-32.jpg
 * هدیه
 * مبینا
 * نازنین
 * مهلا
 * مهدیه
 * فاطمه
-
-
+---
+gallery:
+  - url: /assets/images/photo_2020-11-14_23-26-14.jpg
+    image_path: /assets/images/photo_2020-11-14_23-26-14.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+---
