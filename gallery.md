@@ -31,6 +31,10 @@ gallery:
     image_path: /assets/images/photo_2020-11-14_23-33-05.jpg
     alt: "placeholder image 6"
     title: "Image 6 title caption"
+  - url: /assets/today/photo_2021-01-31_09-49-55.jpg
+    image_path: /assets/today/photo_2021-01-31_09-49-55.jpg
+    alt: "placeholder image 7"
+    title: "Image 7 title caption"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
